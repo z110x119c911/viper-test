@@ -1,0 +1,19 @@
+{
+    "repositories": [
+        {
+            "type": "github",
+            "url": "git@github.com:Flytech-Digital-Services/viper-library.git"
+        },
+        {
+            "type": "github",
+            "url": "git@github.com:Flytech-Digital-Services/viper-authentication"
+        }
+    ],
+    "require": {
+        "microsoft/azure-storage-blob": "^1.5",
+        "ext-json": "*",
+        "ext-curl": "*",
+        "flytech/viperlibrary": "^1.17.29",
+        "flytech/viperauthentication": "^1.5.7"
+    }
+}

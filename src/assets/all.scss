@@ -1,0 +1,13 @@
+@import "~bootstrap/scss/functions";
+@import "./assets/_variables";
+@import "~bootstrap/scss/bootstrap";
+.sidebar_set {
+    max-width: 18rem !important;
+    min-width: 6.5rem !important;
+    height: 100vh;
+}
+
+.nav_bg {
+    height: 3.5rem;
+    background: linear-gradient( 90deg, #29bfed, #82daf5 97.92%);
+}
