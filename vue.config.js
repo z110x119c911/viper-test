@@ -3,7 +3,7 @@ module.exports = {
   // ? 'viper-test'
   // : './dist/',
 
-  // publicPath: './',
-  publicPath: './dist/',
-  indexPath:'../index.html/',
+  publicPath: './',
+  // publicPath: './dist/',
+  // indexPath:'../index.html/',
 }

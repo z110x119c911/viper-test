@@ -9,10 +9,10 @@
           <router-link active-class="menu_active" class="nav-link menu_list" exact to="/dashboard">Dashboard</router-link>
         </li>
         <li class="nav-item">
-          <router-link active-class="menu_active" class="nav-link menu_list" to="/dashboard/device">Device Management</router-link>
+          <router-link active-class="menu_active" class="nav-link menu_list" to="/device">Device Management</router-link>
         </li>
         <li class="nav-item">
-          <router-link active-class="menu_active" class="nav-link menu_list" to="/dashboard/Administation">Administation</router-link>
+          <router-link active-class="menu_active" class="nav-link menu_list" to="/Administation">Administation</router-link>
         </li>
         <li class="nav-item">
           <router-link active-class="menu_active" class="nav-link menu_list" to="/support">Support</router-link>

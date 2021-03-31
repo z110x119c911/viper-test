@@ -7,7 +7,7 @@
         </div>
         <div class="col" id="main">
           <Nav/>
-          <router-view/>
+          dashboard
         </div>
       </div>
     </div>

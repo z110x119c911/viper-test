@@ -1,6 +1,6 @@
 <template>
   <div>
-    <loading :active.sync="isLoading"></loading>
+    <Loading :active.sync="isLoading"></Loading>
     <div class="row py-5">
       <div class="col-md-3 py-2" v-for="(item) in AreaList" :key="item.id">
         <div class="card">
